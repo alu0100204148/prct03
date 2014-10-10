@@ -1,8 +1,0 @@
-¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete
-de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior?
-
-Al parecer ambos ejecutan el programa, la diferencia es que al hacerlo con ruby helloWorld.rb 
-parece que solo lo ejecuta y al hacerlo con el interpete aparte de ejecutarlo parece mostrar
-el contenido de helloWorld.rb.
-
-
