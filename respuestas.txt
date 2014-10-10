@@ -6,3 +6,29 @@ parece que solo lo ejecuta y al hacerlo con el interpete aparte de ejecutarlo pa
 el contenido de helloWorld.rb.
 
 
+
+
+¿Cu´al es el resultado de cada una de las siguientes operaciones?
+
+[1] pry(main)> puts x
+10
+=> nil
+[2] pry(main)> def hello
+[2] pry(main)*   puts "Hello world"
+[2] pry(main)* end  
+=> nil
+[3] pry(main)> hello
+Hello world
+=> nil
+[4] pry(main)> byebye
+bye bye world!!!
+=> nil
+[5] pry(main)> x = "changed"
+=> "changed"
+[6] pry(main)> exit
+program resumes here. Value of x is: changed.
+
+
+
+
+
